@@ -15,7 +15,7 @@ public class Main {
         System.out.println("3")
         System.out.println("4")
 
-        //this is gonna take forever
+        //this is gonna take forever to write
          */
 
         for (int i = 0; i <= 100; i++) {
